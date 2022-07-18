@@ -1,0 +1,44 @@
+p,h1,h5,li {
+    background-color: rgb(134, 221, 160);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-color: rgba(186, 247, 255, 0.541);
+    text-decoration-style: double;
+    
+}
+
+<style>
+
+#webtitle-id {
+    padding: 100px;
+    border: 5px rgba(134, 221, 160, 0);
+    margin: 100px;
+    outline:rgb(5, 53, 59);
+    height: 50px;
+    width: 200px;
+}
+
+</style>
+
+.headers-class {
+
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+li {
+
+    list-style: disc;
+    list-style-position: outside;
+    margin: 20%;
+    padding: 20%;
+    color: rgb(118, 110, 236);
+    background-color: rgb(197, 234, 243);
+}
